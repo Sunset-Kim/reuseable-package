@@ -1,5 +1,11 @@
 # @sunset-kim/reusable-components
 
+## 2.0.0
+
+### Major Changes
+
+- 1643c49: Initial release
+
 ## 1.0.0
 
 ### Major Changes
